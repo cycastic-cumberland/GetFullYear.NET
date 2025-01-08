@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFullYear.NET", "GetFullYear.NET\GetFullYear.NET.csproj", "{F4C4F14A-15CA-415B-A1F6-167D6E330B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFullYear.DependencyInjection", "GetFullYear.DependencyInjection\GetFullYear.DependencyInjection.csproj", "{94A33D27-FE70-4E46-B4CB-574EF24C5B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C4F14A-15CA-415B-A1F6-167D6E330B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C4F14A-15CA-415B-A1F6-167D6E330B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C4F14A-15CA-415B-A1F6-167D6E330B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C4F14A-15CA-415B-A1F6-167D6E330B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A33D27-FE70-4E46-B4CB-574EF24C5B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A33D27-FE70-4E46-B4CB-574EF24C5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A33D27-FE70-4E46-B4CB-574EF24C5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A33D27-FE70-4E46-B4CB-574EF24C5B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
