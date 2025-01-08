@@ -1,6 +1,6 @@
 # GetFullYear.NET
 
-An unofficial .NET client for [getfullyear.com](https://getfullyear.com) for your modern web application.
+An unofficial .NET client for [getfullyear.com](https://getfullyear.com) for your modern web applications.
 
 ## Features
 
